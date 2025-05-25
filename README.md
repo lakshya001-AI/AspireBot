@@ -1,4 +1,4 @@
-# **AspireBot 💹**  
+# **AspireBot **  
 Stay informed and make smarter cryptocurrency decisions with **CryptoPulse**—a platform designed for real-time tracking, personalized insights, and AI-driven recommendations.  
 ![Cryptocurrency Tracking]() <!-- Add image showing a price chart or dashboard here -->
 
