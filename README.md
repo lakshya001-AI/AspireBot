@@ -1,19 +1,19 @@
-# **CryptoPulse 💹**  
+# **AspireBot 💹**  
 Stay informed and make smarter cryptocurrency decisions with **CryptoPulse**—a platform designed for real-time tracking, personalized insights, and AI-driven recommendations.  
-![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001543.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
+![Cryptocurrency Tracking]() <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
 ## 📖 **Overview**  
 CryptoPulse is your ultimate cryptocurrency companion, offering features like price tracking, market analysis, and AI-guided investment advice. Whether you're a seasoned investor or a crypto newbie, CryptoPulse equips you with the tools and insights needed to navigate the ever-changing crypto landscape.  
-![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20101037.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
+![Cryptocurrency Tracking]() <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
 ## 🎯 **Our Mission**  
 To empower users by simplifying cryptocurrency investments through real-time data, intelligent insights, and a personalized experience.  
 
-![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20101114.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
+![Cryptocurrency Tracking]() <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
@@ -25,7 +25,7 @@ Track prices and analyze market trends effortlessly:
 ✅ **Market Trends**: View 24-hour highs, lows, and market caps for comprehensive insights.  
 ✅ **Interactive Charts**: Analyze historical price data for better investment decisions.  
 
-![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001645.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
+![Cryptocurrency Tracking]() <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
@@ -34,7 +34,7 @@ Keep an eye on your favorite cryptocurrencies:
 ✅ **Favorite Section**: Create a customized watchlist to monitor and compare cryptocurrencies easily.  
 ✅ **Comparison Tool**: Evaluate multiple cryptocurrencies side-by-side for informed decision-making.  
 
-![Favorite Watchlist](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001919.png?raw=true) <!-- Add image showing the favorite section here -->
+![Favorite Watchlist]() <!-- Add image showing the favorite section here -->
 
 ---
 
@@ -49,7 +49,7 @@ Get expert advice on cryptocurrency investments based on your budget and prefere
 
 **Pipeline**: The recommendations are a result of a sophisticated pipeline integrating **LangChain** for seamless processing, **Gemini** for accurate data, and **Cohere** for advanced language models.  
 
-![GuideAI Example](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001955.png?raw=true) <!-- Add image showing an AI recommendation interface -->
+![GuideAI Example]() <!-- Add image showing an AI recommendation interface -->
 
 ---
 
@@ -59,7 +59,7 @@ CryptoPulse integrates robust APIs to deliver reliable and up-to-date informatio
 ✅ **LangChain**: Enables seamless integration of AI-driven insights for enhanced user experiences.  
 ✅ **Gemini and Cohere APIs**: Powers GuideAI for intelligent investment recommendations. 
 
-![API Integration](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/WhatsApp%20Image%202025-05-25%20at%2010.02.41_8d61bf70.jpg?raw=true) <!-- Add image showcasing API connectivity or data flow -->
+![API Integration]() <!-- Add image showcasing API connectivity or data flow -->
 
 ---
 
@@ -69,7 +69,7 @@ CryptoPulse ensures accessibility for a global audience by providing multi-curre
 ✅ **Local Currency Conversion**: View cryptocurrency prices in various global currencies.  
 ✅ **Seamless Switching**: Easily toggle between currencies for personalized tracking.  
 
-![Multi-Language Support](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20004327.png?raw=true) <!-- Add image showing the language selection dropdown -->
+![Multi-Language Support]() <!-- Add image showing the language selection dropdown -->
 
 ---
 
