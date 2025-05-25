@@ -1183,12 +1183,12 @@ html, body{
 
 .recommendationPopUpContent{
     width: 60%;
-    max-width: 750px;
+    max-width: 700px;
     display: flex;
-    height: 30vmax;
+    height: 40vmax;
     justify-content: center;
     flex-direction: column;
-    padding: 50px 55px;
+    padding: 40px 30px;
     border-radius: 50px;
     background: linear-gradient(145deg, rgba(50, 50, 50, 0.8), rgba(20, 20, 20, 0.8)); /* Gradient for a smooth, modern feel */
     backdrop-filter: blur(15px); /* Stronger blur for a more distinct background separation */
@@ -1330,9 +1330,37 @@ html, body{
 
 .responseDiv{
   width: 100%;
+  height: 30vmax;
   overflow-y: auto;
   margin-top: 20px;
   padding: 10px;
+}
+
+
+.closeRecommendationBtn{
+  width: 300px;
+  margin-top: 30px;
+  padding: 10px;
+  background-color: whitesmoke;
+  color: black;
+  border: none;
+  cursor: pointer;
+}
+
+.courierRecommendationDiv{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.courierRecommendationDivBtn{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
 }
 
 

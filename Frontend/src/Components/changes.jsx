@@ -255,8 +255,8 @@ function MainPage() {
                 <button type="submit" disabled={loading}>
                   {loading ? (
                     <Box sx={{ display: "flex", justifyContent: "center" }}>
-  <CircularProgress size={24} sx={{ color: "white" }} />
-</Box>
+                      <CircularProgress size={24} />
+                    </Box>
                   ) : (
                     "Submit"
                   )}
@@ -274,9 +274,7 @@ function MainPage() {
       {recommendationPopUp && (
         <div className={Style.recommendationPopUpOverlay}>
           <div className={Style.recommendationPopUpContent}>
-            <div className={Style.courierRecommendationDiv}>
-              <h2>Career Recommendations</h2>
-            </div>
+            <h2>Career Recommendations</h2>
             <div className={Style.recommendationBtnDivOption}>
               <button
                 onClick={handleCohereClick}
@@ -301,14 +299,12 @@ function MainPage() {
                 {formatRecommendation(geminiRecommendation)}
               </div>
             )}
-             <div className={Style.courierRecommendationDivBtn}>
-              <button
+            <button
               className={Style.closeRecommendationBtn}
               onClick={() => setRecommendationPopUp(false)}
             >
               Close
             </button>
-            </div>
           </div>
         </div>
       )}

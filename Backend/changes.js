@@ -33,8 +33,8 @@ if (!JWT_SECRET) {
 }
 
 // API Keys
-const COHERE_API_KEY = "BBK74cEhpbUdIj0gyOiSIEeg6F0L9ISHe6Bfo9HF";
-const GEMINI_API_KEY = "AIzaSyAuVwzksyAl-eATP99mxACJq1Z1MLOscZc";
+const COHERE_API_KEY = process.env.COHERE_API_KEY;
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
 if (!COHERE_API_KEY || !GEMINI_API_KEY) {
   console.error("API keys for Cohere or Gemini are missing.");
