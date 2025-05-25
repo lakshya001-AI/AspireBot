@@ -1,77 +1,38 @@
-# **CryptoPulse 💹**  
-Stay informed and make smarter cryptocurrency decisions with **CryptoPulse**—a platform designed for real-time tracking, personalized insights, and AI-driven recommendations.  
-![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001543.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
+# AspireBot: Your AI Companion for Career and Skills
+
+AspireBot is an AI-powered assistant that helps you find the best career paths, essential skills to learn, and personalized learning resources. Using advanced models like **Cohere** and **Gemini**, AspireBot offers career recommendations based on your interests, goals, and skills.  
+
+![Cryptocurrency Tracking]() <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
 ## 📖 **Overview**  
-CryptoPulse is your ultimate cryptocurrency companion, offering features like price tracking, market analysis, and AI-guided investment advice. Whether you're a seasoned investor or a crypto newbie, CryptoPulse equips you with the tools and insights needed to navigate the ever-changing crypto landscape.  
-![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20101037.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
+AspireBot is your go-to AI-powered career assistant, designed to help you navigate the world of career development. Whether you're exploring new career paths, enhancing your skills, or looking for the right resources to grow, AspireBot provides personalized recommendations powered by advanced AI. It offers tailored career advice, skill-building strategies, and learning resources to help you achieve your career goals with ease and confidence.
+![Cryptocurrency Tracking]() <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
-## 🎯 **Our Mission**  
-To empower users by simplifying cryptocurrency investments through real-time data, intelligent insights, and a personalized experience.  
 
-![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20101114.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
+## 🚀 **How it Works ?**  
 
----
+### 🔹 1. User Input  
+The user enters their details, including their interests, skills they want to learn, and career goals. These inputs form the foundation for the career recommendations.
 
-## 🚀 **Key Features**  
+![Cryptocurrency Tracking]() <!-- Add image showing a price chart or dashboard here -->
 
-### 🔹 1. Real-Time Cryptocurrency Tracking  
-Track prices and analyze market trends effortlessly:  
-✅ **Live Prices**: Up-to-date cryptocurrency prices fetched using the **CoinGecko API**.  
-✅ **Market Trends**: View 24-hour highs, lows, and market caps for comprehensive insights.  
-✅ **Interactive Charts**: Analyze historical price data for better investment decisions.  
+### 🔹 2. AI Analysis and Personalized Recommendations 
+Using a sophisticated pipeline powered by Gemini, Cohere, and LangChain, the AI analyzes the user's data to generate personalized recommendations. Each AI model contributes by processing the input data in unique ways:
 
-![Cryptocurrency Tracking](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001645.png?raw=true) <!-- Add image showing a price chart or dashboard here -->
+✅ Gemini: Provides data-driven insights based on the user's input and trends.
 
----
+✅ Cohere: Uses advanced language processing to refine and articulate career advice.
 
-### 🔹 2. Personalized Watchlist  
-Keep an eye on your favorite cryptocurrencies:  
-✅ **Favorite Section**: Create a customized watchlist to monitor and compare cryptocurrencies easily.  
-✅ **Comparison Tool**: Evaluate multiple cryptocurrencies side-by-side for informed decision-making.  
+✅ LangChain: Integrates and manages the flow of data between models for seamless decision-making.
 
-![Favorite Watchlist](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001919.png?raw=true) <!-- Add image showing the favorite section here -->
+![Cryptocurrency Tracking]() <!-- Add image showing a price chart or dashboard here -->
 
 ---
 
-### 🔹 3. GuideAI – AI-Powered Investment Advisor  
-Get expert advice on cryptocurrency investments based on your budget and preferences:  
-✅ **Budget-Based Recommendations**: Input your budget, and GuideAI suggests the best cryptocurrencies to invest in.  
-✅ **Trend Analysis**: AI leverages **LangChain**, **Gemini**, and **Cohere APIs** to analyze trends and provide tailored insights.  
-
-**Example Interaction with GuideAI:**  
-- User Query: *"Which cryptocurrency should I invest in with $500?"*  
-- AI Response: *"Based on your budget and market trends, consider investing in Ethereum and Solana for diversified growth."*  
-
-**Pipeline**: The recommendations are a result of a sophisticated pipeline integrating **LangChain** for seamless processing, **Gemini** for accurate data, and **Cohere** for advanced language models.  
-
-![GuideAI Example](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20001955.png?raw=true) <!-- Add image showing an AI recommendation interface -->
-
----
-
-### 🔹 4. Advanced API Integration  
-CryptoPulse integrates robust APIs to deliver reliable and up-to-date information:  
-✅ **CoinGecko API**: Fetches live cryptocurrency data, including prices and charts.  
-✅ **LangChain**: Enables seamless integration of AI-driven insights for enhanced user experiences.  
-✅ **Gemini and Cohere APIs**: Powers GuideAI for intelligent investment recommendations. 
-
-![API Integration](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/WhatsApp%20Image%202025-05-25%20at%2010.02.41_8d61bf70.jpg?raw=true) <!-- Add image showcasing API connectivity or data flow -->
-
----
-
-### 🔹 5. Multi-Currency Support  
-CryptoPulse ensures accessibility for a global audience by providing multi-currency options. Users can view cryptocurrency prices in their preferred local currency, enhancing usability and relevance worldwide.  
-
-✅ **Local Currency Conversion**: View cryptocurrency prices in various global currencies.  
-✅ **Seamless Switching**: Easily toggle between currencies for personalized tracking.  
-
-![Multi-Language Support](https://github.com/lakshya001-AI/cryptoPulse_FAH/blob/main/Screenshot%202025-05-25%20004327.png?raw=true) <!-- Add image showing the language selection dropdown -->
-
----
 
 ## 🛠 **Tech Stack**  
 
