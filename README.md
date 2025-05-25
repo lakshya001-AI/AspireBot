@@ -35,7 +35,7 @@ Using a sophisticated pipeline powered by Gemini, Cohere, and LangChain, the AI 
 
 ## 🛠 **Tech Stack**  
 
-CryptoPulse is built using modern and reliable technologies to ensure a seamless experience for users.  
+AspireBot is built using modern and reliable technologies to ensure a seamless experience for users.  
 
 | 💧 **Technology**   | 🔍 **Usage** |
 |-------------------|------------|
@@ -43,7 +43,6 @@ CryptoPulse is built using modern and reliable technologies to ensure a seamless
 | **Backend**    | Node.js, Express.js – Efficient server-side handling. |
 | **Database**   | MongoDB – Scalable and flexible NoSQL database. |
 | **AI Models** | LangChain with Gemini and Cohere APIs – Powering GuideAI. |
-| **API Integration** | CoinGecko API – Fetching real-time cryptocurrency data. |
 
 ---
 
